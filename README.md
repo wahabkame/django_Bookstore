@@ -4,12 +4,12 @@
 
 
   ### Before you start you have to do :
-      1- download Python3
-      2- donwload django by using ** pip **
-      3- download Bootstrap
-      4- downlaod SQLlite3
-      5- download Filter Library 
-      6- downlaod PostgreSQL
+      1- download **Python3**
+      2- donwload **django** by using _pip_
+      3- download **Bootstrap**
+      4- downlaod **SQLlite3**
+      5- download **Filter** Library 
+      6- downlaod **PostgreSQL**
        
   ### Skills I learn in this projects : 
         •	MTV-URLs-VIEW
