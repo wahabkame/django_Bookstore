@@ -1,5 +1,5 @@
 # django_Bookstore
-  ## This have done by ** __ wahabkame **
+  ## This have done by ** _ wahabkame_ **
   ## The project for ** Bookstore ** done by ** Django **
 
 
