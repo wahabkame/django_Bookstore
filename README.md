@@ -1,11 +1,11 @@
 # django_Bookstore
-  ## This have done by **__wahabkame**
-  ## The project for **Bookstore** done by **Django**
+  ## This have done by ** __ wahabkame **
+  ## The project for ** Bookstore ** done by ** Django **
 
 
   ### Before you start you have to do :
       1- download Python3
-      2- donwload django by using **pip**
+      2- donwload django by using ** pip **
       3- download Bootstrap
       4- downlaod SQLlite3
       5- download Filter Library 
