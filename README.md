@@ -3,7 +3,7 @@
   ## The project for **Bookstore** done by **Django**
 
 
-  ### Before you start you have to do :
+  ## Before you start you have to do :
       1- download **Python3**
       2- donwload django by using _pip_
       3- download Bootstrap
