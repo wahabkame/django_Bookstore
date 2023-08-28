@@ -1,3 +1,3 @@
 # django_Bookstore
-  #his have done by wahabkame
-  the project for Bookstore done by Django
+  # This have done by wahabkame
+  # The project for Bookstore done by Django
